@@ -1,6 +1,6 @@
 # Cyber Labs
 
-Hands-on labs for learning Linux, networking and cybersecurity.
+Hands-on labs for Linux, networking and cybersecurity practice
 
 ## Structure
 

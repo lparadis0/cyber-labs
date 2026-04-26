@@ -1,17 +1,41 @@
-# Cyber Labs
+# IT Labs — Linux, Networking & Security Practice
 
-Hands-on labs for Linux, networking and cybersecurity practice
+Hands-on technical labs focused on practical skills for IT support, system administration and cybersecurity foundations.
 
-## Structure
+## Lab Areas
 
-- linux → Linux commands and system practice
-- networking → Networking fundamentals and tools
-- security → Basic security concepts and tools
+### Linux Systems
+
+- User and permission management
+- Process monitoring and control
+- SSH basics
+- File system navigation
+- Bash scripting and automation
+
+### Networking
+
+- IP configuration basics
+- DNS troubleshooting
+- Port testing and connectivity checks
+- Ping / traceroute diagnostics
+- Network troubleshooting workflows
+
+### Security
+
+- UFW firewall rule management
+- Log inspection and monitoring
+- Fail2ban basics
+- Linux system hardening
+- Basic incident response workflows
+
+## What This Demonstrates
+
+- Practical troubleshooting ability
+- Confidence in terminal environments
+- Security-first mindset
+- Consistency through hands-on labs
+- Real technical execution
 
 ## Goal
 
-Build practical skills through real exercises and terminal usage.
-
-## Author
-
-Leonardo Paradiso
+Build real-world technical foundations through repeatable labs, documented exercises and practical troubleshooting.
